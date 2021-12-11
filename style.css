@@ -20,6 +20,7 @@ body {
 .page-header {
   margin: 0 0 160px;
   padding: 32px 0 32px;
+  background-color: chocolate;
 }
 
 .page-header .container,
@@ -71,6 +72,7 @@ body {
 
 .intro {
   margin: 0 0 120px;
+  background-color: lightgray;  // сам добавил
 }
 
 .subheading {
