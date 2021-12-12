@@ -20,7 +20,7 @@ body {
 .page-header {
   margin: 0 0 160px;
   padding: 32px 0 32px;
-  background-color: chocolate;
+  background-color: blanchedalmond; //я добавил
 }
 
 .page-header .container,
